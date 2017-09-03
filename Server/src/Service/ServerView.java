@@ -1,9 +1,6 @@
 package Service;
 
 //	坦克大战连线版主机端
-//	作者：胡畔
-//	说明：免费软件，欢迎修改
-
 
 import javax.swing.*;
 import java.awt.*;
